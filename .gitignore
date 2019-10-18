@@ -1,3 +1,5 @@
 .DS_Store
 *.pyc
 /maya_python_api_project_files/*
+/QueryScene/*
+
